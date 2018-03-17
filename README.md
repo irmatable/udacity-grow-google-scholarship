@@ -15,8 +15,8 @@ Repo inspired by [James Perrin](https://github.com/jamesperrin/udacity-google-gr
 |Front End      |Data Types & Variables       | 3/13/2018      |    [x]   |               
 |Front End      |Conditionals                 | 3/14/2018      |    [x]   |               
 |Front End      |Loops                        | 3/15/2018      |    [x]   |                     
-|Front End      |Functions                    |                |          |                   
-|Front End      |Arrays                       |                |          |                   
+|Front End      |Functions                    | 3/17/2018      |    [x]   |            
+|Front End      |Arrays                       | 3/17/2018      |    [x]   |          
 |Front End      |Objects                      |                |          |                    
 |Front End      |DOM, $, and Selectors        |                |          |                  
 |Front End      |DOM Manipulation             |                |          |      
